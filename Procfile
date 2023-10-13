@@ -1,0 +1,1 @@
+web: java -jar build/libs/API-Simples-0.0.1-SNAPSHOT.jar
